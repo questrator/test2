@@ -8,6 +8,7 @@ ___
 - **Phone:** +7 (988) 568-72-36
 - **Email:** drumtrack@yandex.com
 - **GitHub:** [questrator](https://github.com/questrator)
+
 ___
 
 #### About me:
@@ -15,6 +16,7 @@ ___
 I am currently working as a content manager and site administrator.
 I plan to become a frontend developer.
 Wish me luck :smile:
+
 ___
 
 #### Skills and Proficiency:
@@ -25,6 +27,7 @@ ___
 - Node.js (basics)
 - Git, GitHub
 - Adobe Photoshop
+
 ___
 
 #### Code example:
@@ -43,7 +46,8 @@ ___
 >
 
 **My solution:**
-```JS
+
+```JavaScript
 function snail(array) {
   let result = [];
   let k = array.length;
@@ -65,11 +69,13 @@ function snail(array) {
   return result;
 }
 ```
+
 ___
 
 #### Courses:
 
 - RS Schools Course «JavaScript/Front-end. Stage 0» (*in progress*)
+
 ___
 
 #### Languages:
